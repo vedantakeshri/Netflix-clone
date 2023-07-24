@@ -1,0 +1,30 @@
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+.banner{
+    background-image: url(../img/AAAABTJnLEgQwMRgxYG5cfHEAGGVsKIMd3nSwgCMmvOl85X543ly5cH3gpM3qBx7zwH5dLhHWvNKFHtDqSnLMcujSoOSrPw2ITym6GEf.webp);
+    background-size: cover;
+}
+.seriesname p{
+    font-size: 22px;
+}
+.info{
+    background-color: lightgray;
+    border-radius: 8px;
+}
+
+.icons i{
+    padding: 15px;
+    padding-left: 20px;
+    margin-left: 30px;
+    font-size: 22px;
+}
+
+.listinfo{
+    list-style: none;
+}
+
+.listinfo li{
+    padding: 8px;
+}
+
